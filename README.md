@@ -10,3 +10,6 @@ This .brs file should be added to your channel before publishing to avoid P2 and
 
 ## Features
 - Creates a transparent SafeZone markup on top of any SceneGraph app
+
+## Channel Flow
+- Event: Once app starts, a transparent overlay will show on top of the app UI
