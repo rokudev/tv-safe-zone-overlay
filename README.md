@@ -1,3 +1,11 @@
+# tv-safe-zone-overlay has moved to GitLab
+
+**This project has moved.** Development now continues at **https://gitlab.com/rokudev/tv-safe-zone-overlay**.
+
+This GitHub repository is archived and read-only. It is kept only as a pointer to the new home. Please open new issues and merge requests on GitLab.
+
+---
+
 # TV Safe Zone Overlay
 This brightscript file contains a function to overlay your current UI in your SceneGraph scene with a transparent safezone markup
 
